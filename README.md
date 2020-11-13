@@ -1,0 +1,2 @@
+# RailsMembersOnly
+Rails: Authentication project
